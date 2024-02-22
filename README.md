@@ -30,7 +30,7 @@ My name is Edwin! I am a techy guy passionate about developing solutions to big 
 Mobile development 📱
 
 ## How to reach me...
-![linkedIn](https://www.linkedin.com/in/edwinacl/)
+[![linkedIn](https://www.linkedin.com/in/edwinacl/)]
 
 ## 😆 Interesting Facts
 - I play the guitar 🎸
