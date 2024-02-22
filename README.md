@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me :pouting_man:
+## About me :pouting_man:
 My name is Edwin! I am a techy guy passionate about developing solutions to big problems that positively impact my society. I have 3+ years of professional experience and have worked on several projects, all of them challenging and even more exciting! If you hit me a problem, I will give you a solution!
 
 # U+1F601 Stack :pouting_man:
