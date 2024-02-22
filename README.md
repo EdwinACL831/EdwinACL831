@@ -30,7 +30,7 @@ My name is Edwin! I am a techy guy passionate about developing solutions to big 
 Mobile development 📱
 
 ## How to reach me...
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinacl/)
 
 ## 😆 Interesting Facts
 - I play the guitar 🎸
