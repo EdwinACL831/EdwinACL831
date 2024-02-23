@@ -24,10 +24,14 @@ My name is Edwin! I am a techy guy passionate about developing solutions to big 
 
 ## 👷‍♂️ currently working on...
 1. Personal project to migrate playlists from one music service provider to another seamlessly.
-2. College projects based on TCP/UDP socket connection
+2. College projects based on TCP/UDP socket connection and my College diploma
 
 ## 📖 currently learning...
 Mobile development 📱
+
+## 👑 Awards
+- Academic Excellence Award: Recognize the top 20 students who achieved the highest average (above 85%)
+- International - Regional Scholarship: Recognize the student with the highest academic average in their program
 
 ## How to reach me...
 Always available on my LinkedIn account: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinacl/)
