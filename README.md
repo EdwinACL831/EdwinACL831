@@ -34,7 +34,7 @@ Mobile development 📱
 - International - Regional Scholarship: Recognize the student with the highest academic average in their program
 
 ## How to reach me...
-Always available on my LinkedIn account: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinacl/)
+Always available on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinacl/) account
 
 ## 😆 Interesting Facts
 - I play the guitar 🎸
