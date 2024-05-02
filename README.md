@@ -28,6 +28,7 @@ My name is Edwin! I am a techy guy passionate about developing solutions to big 
 
 ## 📖 currently learning...
 Mobile development 📱
+AI 🤖
 
 ## 👑 Awards
 - Academic Excellence Award: Recognize the top 20 students who achieved the highest average (above 85%)
