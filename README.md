@@ -33,6 +33,7 @@ My name is Edwin! I am a techy guy passionate about developing solutions to big 
 ## 👑 Awards
 - Academic Excellence Award: Recognize the top 20 students who achieved the highest average (above 85%)
 - International - Regional Scholarship: Recognize the student with the highest academic average in their program
+- Graduated with High Distinction
 
 ## How to reach me...
 Always available on my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwinacl/) account
